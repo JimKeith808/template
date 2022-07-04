@@ -1,0 +1,10 @@
+body {
+    font-size: 26px;
+}
+
+.wrapper {
+    background-color: aquamarine;
+    width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+}
